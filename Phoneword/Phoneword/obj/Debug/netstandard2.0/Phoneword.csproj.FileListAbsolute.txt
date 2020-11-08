@@ -1,0 +1,13 @@
+F:\Proyectos Xamarin\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.deps.json
+F:\Proyectos Xamarin\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.dll
+F:\Proyectos Xamarin\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\ref\Phoneword.dll
+F:\Proyectos Xamarin\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.pdb
+F:\Proyectos Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csprojAssemblyReference.cache
+F:\Proyectos Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Proyectos Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfoInputs.cache
+F:\Proyectos Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfo.cs
+F:\Proyectos Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.CoreCompileInputs.cache
+F:\Proyectos Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\XamlC.stamp
+F:\Proyectos Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.dll
+F:\Proyectos Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\ref\Phoneword.dll
+F:\Proyectos Xamarin\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.pdb
