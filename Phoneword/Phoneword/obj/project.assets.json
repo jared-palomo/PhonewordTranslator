@@ -634,11 +634,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Proyectos Xamarin\\Phoneword\\Phoneword\\Phoneword\\Phoneword.csproj",
+      "projectUniqueName": "F:\\Proyectos Xamarin\\PhonewordTranslator\\Phoneword\\Phoneword\\Phoneword.csproj",
       "projectName": "Phoneword",
-      "projectPath": "F:\\Proyectos Xamarin\\Phoneword\\Phoneword\\Phoneword\\Phoneword.csproj",
+      "projectPath": "F:\\Proyectos Xamarin\\PhonewordTranslator\\Phoneword\\Phoneword\\Phoneword.csproj",
       "packagesPath": "C:\\Users\\gjare\\.nuget\\packages\\",
-      "outputPath": "F:\\Proyectos Xamarin\\Phoneword\\Phoneword\\Phoneword\\obj\\",
+      "outputPath": "F:\\Proyectos Xamarin\\PhonewordTranslator\\Phoneword\\Phoneword\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

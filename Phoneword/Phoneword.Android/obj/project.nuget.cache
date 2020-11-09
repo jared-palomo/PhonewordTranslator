@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "22dvP/oHXN2aof/z1HoyD7D5jQsGD8XV8aw2Tl0ejABwWJQGqoa4M8KV59vxDiajRxiOBG2B7Z0v0Ukng0czVQ==",
+  "dgSpecHash": "iJjQLWwM7KG2cpmHqqVnz1QNFIts6hyDTzMssGGh52t2XiaH1VFjhiBOCuzvq43ImGrrK245wbyMifVIMUJ/nw==",
   "success": true,
-  "projectFilePath": "F:\\Proyectos Xamarin\\Phoneword\\Phoneword\\Phoneword.Android\\Phoneword.Android.csproj",
+  "projectFilePath": "F:\\Proyectos Xamarin\\PhonewordTranslator\\Phoneword\\Phoneword.Android\\Phoneword.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

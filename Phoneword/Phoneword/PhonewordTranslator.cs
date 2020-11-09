@@ -41,6 +41,7 @@ namespace Phoneword
             "ABC", "DEF", "GHI", "JKL", "MNO", "PQRS", "TUV", "WXYZ"
         };
 
+        //Metodo Static
         static int? TranslateToNumber(char c)
         {
             for (int i=0; i < digits.Length; i++)

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KspSSoiZaAGBFJhRNp2Th8I/FocCI+g3c2onJyczUsqWXeJErCyTW5mT8J7No3Yn8Qz/cEJK+CI/PzFTzSL7MA==",
+  "dgSpecHash": "CRZrY2t8jX3u+yhqOHwnWyxyNxW6MjcOYUxOjt4STWyM4ESrc+kIwnvOWQlNoXv7XnG8L7K+Rnh2Y6CmD4oukw==",
   "success": true,
-  "projectFilePath": "F:\\Proyectos Xamarin\\Phoneword\\Phoneword\\Phoneword\\Phoneword.csproj",
+  "projectFilePath": "F:\\Proyectos Xamarin\\PhonewordTranslator\\Phoneword\\Phoneword\\Phoneword.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gjare\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\gjare\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wUyJ582LGOxE1fapitPC5WVsk8KOjPJcy0Z12GmtvbMUApZQSTiJB/RpYd4FCNggOoONw0B3PhoXFhSm5JYxSw==",
+  "dgSpecHash": "tYVYA3taV8mgMkEAXAip2I+0tzYSHG72GG7R43YtlLeWMvINPuNUQ3hGMHxK9ucaZ59cjuxxNxP5Ot86sf7DBg==",
   "success": true,
-  "projectFilePath": "F:\\Proyectos Xamarin\\Phoneword\\Phoneword\\Phoneword.iOS\\Phoneword.iOS.csproj",
+  "projectFilePath": "F:\\Proyectos Xamarin\\PhonewordTranslator\\Phoneword\\Phoneword.iOS\\Phoneword.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"

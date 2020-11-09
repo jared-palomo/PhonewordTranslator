@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Proyectos Xamarin\\Phoneword\\Phoneword\\Phoneword.Android\\Phoneword.Android.csproj": {}
+    "F:\\Proyectos Xamarin\\PhonewordTranslator\\Phoneword\\Phoneword.Android\\Phoneword.Android.csproj": {}
   },
   "projects": {
-    "F:\\Proyectos Xamarin\\Phoneword\\Phoneword\\Phoneword.Android\\Phoneword.Android.csproj": {
+    "F:\\Proyectos Xamarin\\PhonewordTranslator\\Phoneword\\Phoneword.Android\\Phoneword.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Proyectos Xamarin\\Phoneword\\Phoneword\\Phoneword.Android\\Phoneword.Android.csproj",
+        "projectUniqueName": "F:\\Proyectos Xamarin\\PhonewordTranslator\\Phoneword\\Phoneword.Android\\Phoneword.Android.csproj",
         "projectName": "Phoneword.Android",
-        "projectPath": "F:\\Proyectos Xamarin\\Phoneword\\Phoneword\\Phoneword.Android\\Phoneword.Android.csproj",
+        "projectPath": "F:\\Proyectos Xamarin\\PhonewordTranslator\\Phoneword\\Phoneword.Android\\Phoneword.Android.csproj",
         "packagesPath": "C:\\Users\\gjare\\.nuget\\packages\\",
-        "outputPath": "F:\\Proyectos Xamarin\\Phoneword\\Phoneword\\Phoneword.Android\\obj\\",
+        "outputPath": "F:\\Proyectos Xamarin\\PhonewordTranslator\\Phoneword\\Phoneword.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "F:\\Proyectos Xamarin\\Phoneword\\Phoneword\\Phoneword\\Phoneword.csproj": {
-                "projectPath": "F:\\Proyectos Xamarin\\Phoneword\\Phoneword\\Phoneword\\Phoneword.csproj"
+              "F:\\Proyectos Xamarin\\PhonewordTranslator\\Phoneword\\Phoneword\\Phoneword.csproj": {
+                "projectPath": "F:\\Proyectos Xamarin\\PhonewordTranslator\\Phoneword\\Phoneword\\Phoneword.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "F:\\Proyectos Xamarin\\Phoneword\\Phoneword\\Phoneword\\Phoneword.csproj": {
+    "F:\\Proyectos Xamarin\\PhonewordTranslator\\Phoneword\\Phoneword\\Phoneword.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Proyectos Xamarin\\Phoneword\\Phoneword\\Phoneword\\Phoneword.csproj",
+        "projectUniqueName": "F:\\Proyectos Xamarin\\PhonewordTranslator\\Phoneword\\Phoneword\\Phoneword.csproj",
         "projectName": "Phoneword",
-        "projectPath": "F:\\Proyectos Xamarin\\Phoneword\\Phoneword\\Phoneword\\Phoneword.csproj",
+        "projectPath": "F:\\Proyectos Xamarin\\PhonewordTranslator\\Phoneword\\Phoneword\\Phoneword.csproj",
         "packagesPath": "C:\\Users\\gjare\\.nuget\\packages\\",
-        "outputPath": "F:\\Proyectos Xamarin\\Phoneword\\Phoneword\\Phoneword\\obj\\",
+        "outputPath": "F:\\Proyectos Xamarin\\PhonewordTranslator\\Phoneword\\Phoneword\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
